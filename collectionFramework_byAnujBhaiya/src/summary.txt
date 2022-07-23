@@ -1,0 +1,30 @@
+Interface
+Class
+
+                           Collection
+
+    List                      Set                  Queue                        Map                 Iterator
+
+    ArrayList               EnumSet             ArrayDeque                    HashMap             ListIterator
+    LinkedList              HashSet             LinkedList                    TreeMap
+    Stack                LinkedHashset         PriorityQueue                  EnumMAp
+    Vector                  TreeSet                                        LinkedHashMap
+                                                                            WeakHashMap
+
+**Important methods---->
+**ArrayList**                                                       **Queue**
+.add()                                                              .offer()
+.addAll()                                                           .poll()
+.get()                                                              .peek()
+.set()
+.contains()
+.containsAll()
+.remove(index)
+.remove(object)
+.clear()
+Iterator<Integer> itr = listName.iterator();
+
+**Stack**
+.push()
+.pop()
+.peek()

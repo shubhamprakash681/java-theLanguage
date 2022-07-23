@@ -1,0 +1,26 @@
+123
+Calangute
+North Goa
+Night Life
+4
+2000
+345
+Baga
+North Goa
+Night Life
+5
+3000
+321
+Paloleum
+South Goa
+Calmand Relax
+4
+1500
+213
+Anjuan
+North Goa
+Calmand Relax
+3
+1000
+North Goa
+3500
